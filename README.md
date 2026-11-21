@@ -7,12 +7,13 @@
 - **같이 하기 (50분):** 표정 알아보는 micro:bit (smile · sad · none)
 - **스스로 하기 (70분, 짝 활동):** AI 스쿼트 코치 ★ 자세 그림 → ★★ 횟수 세기 → ★★★ 10번 축하
 
-| 자료 | 위치 |
+| 자료 | 주소 |
 |---|---|
-| 슬라이드 (43장) | `index.html` |
-| PDF 원고 | `camera-ai.pdf` |
+| 슬라이드 (43장) | https://liebe842.github.io/microbit-ai-face/ |
+| PDF 원고 | https://liebe842.github.io/microbit-ai-face/camera-ai.pdf |
 | MakeCode 코드 | `code/` 폴더 (JavaScript로 붙여 넣으면 블록으로 바뀌어요) |
 
+- **PDF 받기:** 화면 아래쪽에 마우스를 올리면 나오는 [PDF 다운로드] 버튼
 - **조작키:** ←/→ 또는 클릭으로 넘기기 · `N` 선생님 메모 · `F` 전체 화면 · `P` 인쇄
 - **슬라이드 번호로 바로 가기:** 주소 끝에 `#31`처럼 번호를 붙여요
 
